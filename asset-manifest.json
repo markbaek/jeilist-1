@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jeilist/static/css/main.d32f07a4.chunk.css",
+    "main.js": "/jeilist/static/js/main.4b63ec14.chunk.js",
+    "main.js.map": "/jeilist/static/js/main.4b63ec14.chunk.js.map",
+    "runtime-main.js": "/jeilist/static/js/runtime-main.f3e8e22b.js",
+    "runtime-main.js.map": "/jeilist/static/js/runtime-main.f3e8e22b.js.map",
+    "static/js/2.a24abb15.chunk.js": "/jeilist/static/js/2.a24abb15.chunk.js",
+    "static/js/2.a24abb15.chunk.js.map": "/jeilist/static/js/2.a24abb15.chunk.js.map",
+    "index.html": "/jeilist/index.html",
+    "precache-manifest.174d99414629598fe9e48f556718b1d3.js": "/jeilist/precache-manifest.174d99414629598fe9e48f556718b1d3.js",
+    "service-worker.js": "/jeilist/service-worker.js",
+    "static/css/main.d32f07a4.chunk.css.map": "/jeilist/static/css/main.d32f07a4.chunk.css.map",
+    "static/js/2.a24abb15.chunk.js.LICENSE.txt": "/jeilist/static/js/2.a24abb15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3e8e22b.js",
+    "static/js/2.a24abb15.chunk.js",
+    "static/css/main.d32f07a4.chunk.css",
+    "static/js/main.4b63ec14.chunk.js"
+  ]
+}
